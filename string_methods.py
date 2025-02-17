@@ -8,4 +8,4 @@ print("HELLO".casefold()) #This just de-capitalizes the capital letters. (Same a
 print("hello".center(50))  #This readjusts the position of the printed code in the console (centers it).
 print("hello".center(50, "*"))
 
-print("I see a little finger in aziz's booty".count("e")) #Counts the amount of times a certain thing was repeated in a sentence
+print("I see a little fly on the window".count("e")) #Counts the number of times a certain thing was repeated in a sentence
